@@ -195,7 +195,7 @@ char username[20];
 	{
 		if(strcmp(password,"Log123")==0)
 		{
-			printf("\nlogin successfull");
+			printf("\n login successfull");
 		}
 		else
 		{
